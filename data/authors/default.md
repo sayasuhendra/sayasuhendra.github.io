@@ -1,16 +1,17 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Suhendra Katrali
+avatar: https://ai.dbaik.com/images/trainer/suhendra.jpg
+occupation: Lead Trainer & Founder DBaik AI | Senior IT Practitioner
+company: DBaik AI
+email: sayasuhendra@gmail.com
+twitter: https://x.com/kasuhendra
+linkedin: https://www.linkedin.com/in/suhendrak/
+github: https://github.com/sayasuhendra
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Memulai karir di industri IT sejak tahun 2000. Telah dipercaya merancang arsitektur sistem skala internasional di Amerika Serikat, Malaysia, dan Indonesia.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Kini mendedikasikan kepakaran teknisnya selama lebih dari dua dekade untuk membimbing siswa, mahasiswa, orang tua, pendidik, dan profesional agar mampu menguasai _Artificial Intelligence_ (AI) praktis, etis, dan berdaya guna nyata.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+> **💡 Prinsip & Visi Pengajaran:**  
+> _"Teknologi dan AI hanyalah akselerator. Kuncinya adalah bagaimana kita memanfaatkan alat tersebut untuk memecahkan masalah nyata tanpa mengorbankan integritas."_
